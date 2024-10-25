@@ -4,26 +4,33 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Update: 24th Oct 2024
 
 ## Scholarships
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 2022：**Second Class Scholarship, SCAU** (¥2000)
+- 2021：**Second Class Scholarship, SCAU** (¥2000)
+- 2020：**Third Class Scholarship, SCAU**  (¥1000)
+- 2022：**Outstanding Team, "Summer Rural Practice", School of Electronic Engineering (Artificial Intelligence), SCAU**
 
 ## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
-
+- Study on the Photosynthetic Parameters Model of Lychee Leaves at Different Growth Stages Based on UAV Multispectral Imaging:<br>(1) Acquired national-level project funding. (2) Awarded Outstanding Project Conclusion. (3) Awarded Second Prize in the Entrepreneurship Program (2021).
+- Predictive Environment Factors IoT Smart Greenhouse:<br>(1) Awarded Second Prize in the Guangdong Provincial College Student Electronic Design Competition (2022). (2) Awarded First Prize in “Bangpu” Cup, SCAU (2022).
+- Robots and Canton Tower:<br>Awarded Second Prize in the Competition.
+- 6th Swimming Championship, School of Electronic Engineering (Artificial Intelligence), SCAU:<br>First Place, Men's 50m Backstroke.
 <br>
+
+## Patents
+- Multi-Sensor Irrigation Response System and Method Based on Unmanned Aerial Vehicle Spectral Remote Sensing (2023). 
+- Method and System for Lychee Disease Detection Based on Unmanned Aerial Vehicle Hyperspectral Imaging (Under Review). 
+- A Vision Sensor-Based UAV with Machine Vision and Image Processing System.
+- A Wind Field Simulation Test Equipment.
+- An intelligent agriculture production management service system.
+<br>
+
+## Software Copyright
+- Image Segmentation Software System Based on Lychee Canopy Multispectral Vegetation Index V1.0 (2022).
+- Predictive Environment Factors IoT Smart Greenhouse V1.0 (2022).
+- UAV Wind Speed Acquisition, Transmission, and Storage System V1.0.
+- 
