@@ -25,7 +25,7 @@ title: Publications
 
 - Study on the Photosynthetic Parameters Model of Lychee Leaves at Different Growth Stages Based on UAV Multispectral Imaging<br>Classification: Undergraduate Innovation and Entrepreneurship Training Program (2021)<br>5/2021-11/2022.
 
-- Predictive Environment Factors IoT Smart Greenhouse<br>Classification: 2022 Guangdong Provincial College Student Electronic Design Competition; “Bangpu” Cup, SCAU (2022).<br>2022
+- [Predictive Environment Factors IoT Smart Greenhouse](https://github.com/Kkoalayep/greenhouse_system)<br>Classification: 2022 Guangdong Provincial College Student Electronic Design Competition; “Bangpu” Cup, SCAU (2022).<br>2022
 
 - UAV Wind Speed Acquisition, Transmission, and Storage System<br>Classification: Collaborative project with J. Lin.<br>2022
 
